@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LXH539.github.io</id>
     <title>LXH&apos;s Blog</title>
-    <updated>2022-10-05T06:33:39.062Z</updated>
+    <updated>2022-10-05T08:34:13.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LXH539.github.io"/>
     <link rel="self" href="https://LXH539.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://LXH539.github.io/images/avatar.png</logo>
     <icon>https://LXH539.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, LXH&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[比较常用的链接]]></title>
+        <id>https://LXH539.github.io/post/bi-jiao-chang-yong-de-lian-jie/</id>
+        <link href="https://LXH539.github.io/post/bi-jiao-chang-yong-de-lian-jie/">
+        </link>
+        <updated>2022-10-05T08:23:36.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="oj">oj</h2>
+<p><a href="https://www.luogu.com.cn/">洛谷</a><br>
+<a href="https://codeforces.com/">CF</a><br>
+<a href="https://ac.nowcoder.com/">牛客</a><br>
+<a href="https://www.acwing.com/">Acwing</a></p>
+<h2 id="功能性">功能性</h2>
+<p><a href="http://oeis.org/">OEIS</a><br>
+<a href="https://csacademy.com/app/graph_editor/">图论好助手</a><br>
+<a href="https://www.geogebra.org/calculator">Geogebra</a><br>
+<a href="https://www.superbed.cn/">聚合图床</a><br>
+<a href="https://imgtu.com/">路过图床</a></p>
+<h2 id="摸鱼">摸鱼</h2>
+<h2 id="b站"><a href="https://www.bilibili.com/">b站</a><br>
+<a href="https://zhutix.com/tag/cursors/">致美化</a></h2>
+<p><s>此外还有一些不能放的，如果想要请联系博主（大雾）</s></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://LXH539.github.io/post/about/</id>
@@ -27,15 +50,6 @@
 <h1 id="联系我">联系我</h1>
 <p>QQ：2693104618<br>
 <a href="https://www.luogu.com.cn/user/539747">洛谷</a>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友链]]></title>
-        <id>https://LXH539.github.io/post/you-lian/</id>
-        <link href="https://LXH539.github.io/post/you-lian/">
-        </link>
-        <updated>2022-10-05T06:20:50.000Z</updated>
-        <content type="html"><![CDATA[<p>持续更新...</p>
 ]]></content>
     </entry>
 </feed>
